@@ -14,7 +14,6 @@ int main (int argc, char* argv[]) {
 	CMatrix<int> m_1(3, 3, init_1);	
 	CMatrix<int> m_2(3, 3, init_2);
 	CMatrix<int> m_3(2, 2, init_3);
-	std::cin >> y;
 
 	m_1.Print();
 	m_2.Print();
