@@ -1,3 +1,3 @@
 #!/bin/bash
 
-g++ --std=c++20 matrix.cpp  main.cpp -o  matrix
+g++ --std=c++20 main.cpp -o  matrix
